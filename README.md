@@ -18,6 +18,6 @@
 8、Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels[【code】](https://github.com/cszn/DPSR)  [【paper】](https://arxiv.org/abs/1903.12529)
 
 9、DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
-[【pytorch code】](https://github.com/KupynOrest/DeblurGAN)  [【paper】](https://arxiv.org/abs/1711.07064)
+[【PyTorch code】](https://github.com/KupynOrest/DeblurGAN)  [【paper】](https://arxiv.org/abs/1711.07064)
 
 10、Unsupervised Domain-Specific Deblurring via Disentangled Representations[【code】](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring)  [【paper】](https://arxiv.org/abs/1903.01594)
